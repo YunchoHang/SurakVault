@@ -1,0 +1,6 @@
+# Build and dist folders
+build/
+dist/
+
+#Pyinstaller stuff
+main.spec
