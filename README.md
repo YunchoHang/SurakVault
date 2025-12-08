@@ -38,3 +38,5 @@ venv\Scripts\activate # Windows
 ```python
 python main.py
 ```
+
+Download the Windows executable here: [SurakVault.exe](https://github.com/YunchoHang/SurakVault/releases/tag/v1.0)
